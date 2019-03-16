@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!autoexec.cfg
+
+# ...even if they are in subdirectories
+!*/
