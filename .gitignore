@@ -4,6 +4,7 @@
 # But not these files...
 !.gitignore
 !autoexec.cfg
+!nadepractice.cfg
 
 # ...even if they are in subdirectories
 !*/
