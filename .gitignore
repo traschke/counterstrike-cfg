@@ -5,6 +5,7 @@
 !.gitignore
 !autoexec.cfg
 !nadepractice.cfg
+!README.md
 
 # ...even if they are in subdirectories
 !*/
